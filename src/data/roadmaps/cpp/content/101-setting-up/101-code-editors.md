@@ -8,7 +8,7 @@ Code editors are programs specifically designed for editing, managing and writin
 
 - **CLion**: CLion is an Integrated Development Environment (IDE) developed by JetBrains specifically for C and C++ developers. It provides advanced features like code completion, refactoring support, debugging, and more.
 
-These are just a few examples, and there are many other code editors available, including Atom, Notepad++, and Geany. They all have their features and may suit different developers' needs. Finding the right code editor is often a matter of personal preference and workflow.
+These are just a few examples, and there are many other code editors and IDEs available, including Atom, Notepad++, Geany, and CodeBlocks. They all have their features and may suit different developers' needs. Finding the right code editor is often a matter of personal preference and workflow.
 
 To work with C++ in your chosen code editor, you often need to install some additional tools and add-ons, such as compilers, linters, and debugger support. Make sure to follow the instructions provided in the editor's documentation to set up C++ correctly.
 
